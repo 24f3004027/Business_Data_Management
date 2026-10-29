@@ -1,0 +1,221 @@
+Respondent_ID,Customer_Segment,Product_Category,Hardware_Purchase_INR,Service_Contract_OptIn,Service_Plan_Type,Annual_Service_Spend_INR,Service_Requests_Annual,Avg_Turnaround_Days,CSAT_Rating,Price_Sensitivity,Repurchase_Intent,Estimated_3Yr_CLV_INR
+RESP_001,B2C Retail,Consumer Electronics,30938.64,No,None (Transactional Only),0.0,0,4.9,4,5,5,46407.96
+RESP_002,Enterprise,Consumer Electronics,489020.18,Yes,AMC Gold,89085.66,5,0.9,5,1,5,1000787.25
+RESP_003,SME Commercial,Computing & IT,124832.33,Yes,AMC Gold,18229.48,4,2.6,5,5,5,241936.93
+RESP_004,SME Commercial,Computing & IT,119979.29,Yes,AMC Gold,13607.54,3,3.0,5,3,5,220791.55
+RESP_005,B2C Retail,Computing & IT,28038.05,No,None (Transactional Only),0.0,2,4.3,3,2,2,16822.83
+RESP_006,B2C Retail,Computing & IT,40176.64,Yes,AMC Silver,4894.14,1,4.7,3,5,3,50841.4
+RESP_007,B2C Retail,Office Automation,87318.46,No,None (Transactional Only),0.0,1,4.4,2,3,2,52391.08
+RESP_008,Enterprise,Computing & IT,412645.25,Yes,AMC Platinum,82073.84,3,0.9,5,1,5,865189.4
+RESP_009,SME Commercial,Office Automation,81309.62,Yes,AMC Gold,10163.57,2,2.5,4,5,5,152455.14
+RESP_010,SME Commercial,Consumer Electronics,67234.99,Yes,AMC Silver,9993.35,4,1.4,4,5,4,110662.04
+RESP_011,B2C Retail,Office Automation,83948.32,No,None (Transactional Only),0.0,0,5.1,2,5,1,25184.5
+RESP_012,Enterprise,Consumer Electronics,515805.45,No,None (Transactional Only),0.0,2,5.8,3,3,4,618966.54
+RESP_013,SME Commercial,Consumer Electronics,99575.7,Yes,AMC Silver,15657.59,2,1.5,5,1,5,196336.32
+RESP_014,B2C Retail,Consumer Electronics,43807.07,Yes,Standard Extended Warranty,4756.25,1,3.3,5,3,5,79979.35
+RESP_015,B2C Retail,Computing & IT,86365.75,Yes,Standard Extended Warranty,7058.41,1,4.2,4,5,5,150723.86
+RESP_016,B2C Retail,Consumer Electronics,68208.46,No,None (Transactional Only),0.0,1,6.2,3,4,2,40925.08
+RESP_017,B2C Retail,Computing & IT,63321.24,No,None (Transactional Only),0.0,2,4.5,3,4,3,56989.12
+RESP_018,SME Commercial,Computing & IT,133495.49,No,None (Transactional Only),0.0,1,3.3,2,3,2,80097.29
+RESP_019,B2C Retail,Consumer Electronics,39639.16,No,None (Transactional Only),0.0,0,5.7,3,3,3,35675.24
+RESP_020,B2C Retail,Computing & IT,73836.73,Yes,AMC Silver,7730.68,2,3.2,4,2,3,89645.1
+RESP_021,SME Commercial,Office Automation,66538.98,Yes,AMC Silver,7360.58,2,2.4,4,5,4,101928.52
+RESP_022,B2C Retail,Office Automation,34012.39,Yes,Standard Extended Warranty,2909.33,1,3.7,3,5,4,49542.86
+RESP_023,B2C Retail,Office Automation,29275.46,Yes,AMC Silver,3656.38,1,5.0,4,2,5,54882.33
+RESP_024,B2C Retail,Computing & IT,78196.88,No,None (Transactional Only),0.0,1,3.3,2,4,1,23459.06
+RESP_025,B2C Retail,Computing & IT,84110.85,No,None (Transactional Only),0.0,0,7.3,3,2,3,75699.76
+RESP_026,SME Commercial,Office Automation,177984.83,Yes,AMC Gold,26776.5,3,1.8,3,3,4,293911.3
+RESP_027,B2C Retail,Consumer Electronics,72537.16,No,None (Transactional Only),0.0,0,3.4,3,4,3,65283.44
+RESP_028,SME Commercial,Office Automation,129065.53,Yes,AMC Silver,15718.24,3,2.5,4,3,4,202033.36
+RESP_029,SME Commercial,Office Automation,209390.69,Yes,AMC Silver,25529.21,3,1.5,4,5,3,265039.25
+RESP_030,B2C Retail,Office Automation,30616.36,No,None (Transactional Only),0.0,0,7.9,2,5,2,18369.82
+RESP_031,SME Commercial,Computing & IT,198481.14,No,None (Transactional Only),0.0,0,3.9,3,3,4,238177.37
+RESP_032,B2C Retail,Computing & IT,65012.89,Yes,AMC Silver,5930.65,2,4.0,3,3,3,76303.55
+RESP_033,B2C Retail,Office Automation,74506.11,No,None (Transactional Only),0.0,0,5.5,4,3,4,89407.33
+RESP_034,Enterprise,Computing & IT,316153.72,Yes,AMC Platinum,51821.94,4,1.0,5,2,5,629696.4
+RESP_035,Enterprise,Computing & IT,492102.54,Yes,AMC Platinum,75265.74,3,1.8,5,3,5,963951.03
+RESP_036,SME Commercial,Consumer Electronics,218548.72,Yes,AMC Silver,34003.33,3,1.1,5,4,5,429833.07
+RESP_037,B2C Retail,Office Automation,80967.6,No,None (Transactional Only),0.0,0,4.2,3,3,4,97161.12
+RESP_038,B2C Retail,Consumer Electronics,66181.47,No,None (Transactional Only),0.0,0,6.6,4,3,4,79417.76
+RESP_039,SME Commercial,Consumer Electronics,130199.15,Yes,AMC Silver,16078.15,3,2.4,5,2,5,243533.17
+RESP_040,B2C Retail,Computing & IT,90788.25,No,None (Transactional Only),0.0,0,3.7,3,3,3,81709.42
+RESP_041,B2C Retail,Consumer Electronics,87572.48,No,None (Transactional Only),0.0,0,4.6,2,1,2,52543.49
+RESP_042,B2C Retail,Office Automation,64892.28,No,None (Transactional Only),0.0,2,4.7,4,4,3,58403.05
+RESP_043,B2C Retail,Computing & IT,33924.21,Yes,AMC Silver,3019.09,1,2.9,5,3,4,49766.32
+RESP_044,Enterprise,Consumer Electronics,404478.76,Yes,AMC Platinum,75291.26,4,1.0,4,1,4,711248.29
+RESP_045,B2C Retail,Office Automation,68046.52,No,None (Transactional Only),0.0,0,3.5,2,3,2,40827.91
+RESP_046,SME Commercial,Consumer Electronics,76354.03,No,None (Transactional Only),0.0,1,3.1,3,3,3,68718.63
+RESP_047,B2C Retail,Consumer Electronics,29824.51,Yes,Standard Extended Warranty,3889.9,1,3.1,3,4,4,47459.11
+RESP_048,SME Commercial,Consumer Electronics,79946.03,No,None (Transactional Only),0.0,2,5.6,3,1,3,71951.43
+RESP_049,SME Commercial,Computing & IT,113631.56,No,None (Transactional Only),0.0,0,4.7,3,5,3,102268.4
+RESP_050,B2C Retail,Computing & IT,49244.22,Yes,AMC Silver,5275.68,1,1.6,5,3,5,89693.37
+RESP_051,Enterprise,Office Automation,224480.99,Yes,AMC Gold,40954.24,5,1.4,4,1,4,392239.91
+RESP_052,SME Commercial,Office Automation,213771.25,Yes,AMC Silver,22471.84,2,1.5,4,3,4,323941.02
+RESP_053,Enterprise,Office Automation,342055.01,Yes,AMC Gold,53859.48,3,0.6,5,1,5,674660.96
+RESP_054,Enterprise,Office Automation,498987.43,Yes,AMC Platinum,77473.3,4,1.2,5,1,4,831204.82
+RESP_055,SME Commercial,Consumer Electronics,72080.54,No,None (Transactional Only),0.0,0,7.5,3,5,4,86496.65
+RESP_056,Enterprise,Consumer Electronics,527904.99,No,None (Transactional Only),0.0,0,5.8,2,2,1,158371.5
+RESP_057,B2C Retail,Office Automation,66653.43,Yes,Standard Extended Warranty,8881.41,2,2.3,3,4,3,86632.32
+RESP_058,B2C Retail,Consumer Electronics,84898.75,No,None (Transactional Only),0.0,0,6.3,2,5,2,50939.25
+RESP_059,B2C Retail,Consumer Electronics,25910.13,Yes,Standard Extended Warranty,2114.06,1,4.6,4,5,4,37434.34
+RESP_060,B2C Retail,Office Automation,68733.29,Yes,AMC Silver,6995.92,1,2.4,4,3,4,103467.71
+RESP_061,B2C Retail,Office Automation,55528.86,Yes,AMC Silver,6986.44,2,1.9,4,3,5,104252.61
+RESP_062,B2C Retail,Computing & IT,37747.5,No,None (Transactional Only),0.0,1,6.7,3,2,3,33972.75
+RESP_063,SME Commercial,Computing & IT,163208.67,Yes,AMC Silver,25139.74,3,1.7,3,2,4,271269.62
+RESP_064,B2C Retail,Computing & IT,65356.15,Yes,Standard Extended Warranty,7782.95,2,4.0,3,2,2,62562.54
+RESP_065,B2C Retail,Consumer Electronics,43654.89,No,None (Transactional Only),0.0,0,6.2,3,4,3,39289.4
+RESP_066,SME Commercial,Computing & IT,124701.04,No,None (Transactional Only),0.0,0,4.8,4,1,3,112230.94
+RESP_067,B2C Retail,Consumer Electronics,78969.01,Yes,AMC Silver,8389.01,2,4.0,4,3,4,119929.84
+RESP_068,SME Commercial,Consumer Electronics,166187.39,No,None (Transactional Only),0.0,1,4.1,2,3,2,99712.43
+RESP_069,B2C Retail,Computing & IT,28599.81,No,None (Transactional Only),0.0,1,4.7,3,1,2,17159.89
+RESP_070,Enterprise,Consumer Electronics,477684.94,Yes,AMC Platinum,73939.03,5,1.7,5,1,5,938344.5
+RESP_071,SME Commercial,Computing & IT,154436.91,Yes,AMC Silver,23943.71,2,3.0,4,1,4,257155.42
+RESP_072,B2C Retail,Computing & IT,92071.96,No,None (Transactional Only),0.0,1,6.8,3,5,3,82864.76
+RESP_073,B2C Retail,Office Automation,88235.47,No,None (Transactional Only),0.0,1,3.3,3,3,2,52941.28
+RESP_074,SME Commercial,Computing & IT,219896.56,Yes,AMC Silver,26117.4,4,2.7,4,5,5,408197.04
+RESP_075,SME Commercial,Computing & IT,211082.64,Yes,AMC Gold,31804.45,3,2.3,4,3,4,348712.52
+RESP_076,SME Commercial,Consumer Electronics,149708.35,Yes,AMC Gold,19733.94,3,2.8,3,3,3,193939.33
+RESP_077,SME Commercial,Office Automation,186515.71,Yes,AMC Gold,28566.5,3,3.2,4,5,4,309518.35
+RESP_078,B2C Retail,Computing & IT,25016.63,Yes,Standard Extended Warranty,3401.15,1,5.0,4,3,4,40223.41
+RESP_079,B2C Retail,Consumer Electronics,58591.29,No,None (Transactional Only),0.0,2,7.9,3,3,3,52732.16
+RESP_080,B2C Retail,Computing & IT,76630.76,Yes,Standard Extended Warranty,7760.96,2,4.5,4,2,4,115239.79
+RESP_081,Enterprise,Computing & IT,559652.6,Yes,AMC Gold,84692.46,6,0.8,5,1,5,1093556.28
+RESP_082,SME Commercial,Consumer Electronics,126812.92,No,None (Transactional Only),0.0,2,5.3,3,5,2,76087.75
+RESP_083,B2C Retail,Consumer Electronics,41217.02,No,None (Transactional Only),0.0,1,6.0,3,2,3,37095.32
+RESP_084,B2C Retail,Consumer Electronics,40434.03,Yes,AMC Silver,4084.14,1,3.7,3,3,3,48643.05
+RESP_085,B2C Retail,Consumer Electronics,61752.21,Yes,Standard Extended Warranty,6760.09,1,2.0,5,2,5,112908.59
+RESP_086,B2C Retail,Office Automation,62588.21,No,None (Transactional Only),0.0,1,3.5,4,2,4,75105.85
+RESP_087,SME Commercial,Consumer Electronics,202199.69,No,None (Transactional Only),0.0,2,7.0,3,1,3,181979.72
+RESP_088,SME Commercial,Computing & IT,125352.51,Yes,AMC Silver,17976.2,3,2.3,5,5,4,204351.61
+RESP_089,Enterprise,Office Automation,596163.9,Yes,AMC Platinum,96153.08,5,1.7,5,2,5,1182705.09
+RESP_090,B2C Retail,Computing & IT,43691.98,No,None (Transactional Only),0.0,1,6.3,4,4,5,65537.97
+RESP_091,B2C Retail,Consumer Electronics,83590.93,No,None (Transactional Only),0.0,1,6.1,3,5,2,50154.56
+RESP_092,SME Commercial,Computing & IT,199494.96,Yes,AMC Gold,21492.03,4,1.6,5,3,4,303870.04
+RESP_093,SME Commercial,Computing & IT,181061.73,Yes,AMC Silver,19019.79,4,3.5,4,4,4,274333.45
+RESP_094,SME Commercial,Office Automation,146397.66,No,None (Transactional Only),0.0,0,6.8,3,3,4,175677.19
+RESP_095,SME Commercial,Office Automation,161219.5,No,None (Transactional Only),0.0,0,7.7,3,3,2,96731.7
+RESP_096,B2C Retail,Consumer Electronics,74572.05,Yes,Standard Extended Warranty,7513.36,2,1.8,5,4,5,134398.15
+RESP_097,SME Commercial,Consumer Electronics,131353.33,Yes,AMC Gold,16158.66,2,1.1,4,4,4,206099.98
+RESP_098,B2C Retail,Computing & IT,72830.68,No,None (Transactional Only),0.0,0,8.0,3,2,3,65547.61
+RESP_099,B2C Retail,Computing & IT,80636.67,No,None (Transactional Only),0.0,0,3.4,3,2,3,72573.0
+RESP_100,B2C Retail,Computing & IT,91560.45,Yes,Standard Extended Warranty,12508.71,2,4.5,5,3,5,174866.8
+RESP_101,B2C Retail,Consumer Electronics,46836.64,Yes,AMC Silver,5842.88,1,1.6,4,5,4,73732.61
+RESP_102,SME Commercial,Consumer Electronics,135713.59,No,None (Transactional Only),0.0,0,7.3,3,4,3,122142.23
+RESP_103,B2C Retail,Consumer Electronics,78271.68,No,None (Transactional Only),0.0,0,3.2,4,4,4,93926.02
+RESP_104,SME Commercial,Computing & IT,137043.58,Yes,AMC Silver,19341.5,2,1.5,4,3,3,181363.72
+RESP_105,Enterprise,Office Automation,271047.03,Yes,AMC Gold,42396.53,7,0.6,5,2,5,533760.14
+RESP_106,B2C Retail,Consumer Electronics,45416.38,No,None (Transactional Only),0.0,2,6.9,2,2,2,27249.83
+RESP_107,B2C Retail,Consumer Electronics,41943.15,No,None (Transactional Only),0.0,0,5.5,3,3,3,37748.83
+RESP_108,SME Commercial,Consumer Electronics,61563.34,Yes,AMC Silver,6480.89,2,1.2,5,3,5,111787.68
+RESP_109,B2C Retail,Consumer Electronics,93422.65,Yes,AMC Silver,12078.28,2,2.1,3,4,3,120315.23
+RESP_110,B2C Retail,Computing & IT,27211.03,No,None (Transactional Only),0.0,0,5.7,3,4,4,32653.24
+RESP_111,B2C Retail,Computing & IT,81120.97,Yes,AMC Silver,6879.62,2,3.4,4,3,4,117984.02
+RESP_112,B2C Retail,Office Automation,27852.79,Yes,Standard Extended Warranty,3439.53,2,2.4,3,2,4,43741.94
+RESP_113,Enterprise,Computing & IT,589139.37,Yes,AMC Gold,107916.12,5,0.7,4,1,4,1030715.6
+RESP_114,SME Commercial,Computing & IT,146796.58,Yes,AMC Silver,18231.5,2,1.2,3,3,3,186811.42
+RESP_115,SME Commercial,Computing & IT,198923.6,No,None (Transactional Only),0.0,1,5.1,2,5,2,119354.16
+RESP_116,Enterprise,Computing & IT,168049.14,No,None (Transactional Only),0.0,1,5.2,3,3,3,151244.23
+RESP_117,SME Commercial,Office Automation,204112.3,Yes,AMC Silver,27665.59,3,1.9,4,4,4,327931.53
+RESP_118,B2C Retail,Consumer Electronics,41505.45,No,None (Transactional Only),0.0,0,6.0,3,3,3,37354.9
+RESP_119,Enterprise,Consumer Electronics,335864.03,Yes,AMC Platinum,42920.56,7,1.2,5,2,5,632557.73
+RESP_120,SME Commercial,Computing & IT,86163.82,Yes,AMC Gold,9950.89,2,1.0,4,3,4,133249.25
+RESP_121,SME Commercial,Consumer Electronics,97924.46,Yes,AMC Gold,12389.55,3,2.1,4,3,3,125300.66
+RESP_122,Enterprise,Consumer Electronics,414547.97,No,None (Transactional Only),0.0,0,4.8,3,1,3,373093.17
+RESP_123,B2C Retail,Computing & IT,62345.83,No,None (Transactional Only),0.0,1,5.2,4,3,4,74815.0
+RESP_124,B2C Retail,Consumer Electronics,27393.14,No,None (Transactional Only),0.0,0,4.2,2,2,2,16435.88
+RESP_125,B2C Retail,Computing & IT,37600.73,Yes,Standard Extended Warranty,4327.1,2,2.0,5,1,5,69382.4
+RESP_126,B2C Retail,Consumer Electronics,91626.82,No,None (Transactional Only),0.0,2,5.3,3,4,3,82464.14
+RESP_127,SME Commercial,Consumer Electronics,82344.2,Yes,AMC Silver,11716.0,3,2.8,4,4,3,109257.78
+RESP_128,Enterprise,Computing & IT,220273.73,Yes,AMC Platinum,30931.83,3,1.8,5,2,5,423206.09
+RESP_129,B2C Retail,Computing & IT,68249.31,No,None (Transactional Only),0.0,1,3.2,4,4,4,81899.17
+RESP_130,SME Commercial,Consumer Electronics,94508.02,No,None (Transactional Only),0.0,0,6.3,2,5,2,56704.81
+RESP_131,B2C Retail,Consumer Electronics,28374.84,No,None (Transactional Only),0.0,0,7.4,3,4,3,25537.36
+RESP_132,B2C Retail,Office Automation,86496.09,Yes,Standard Extended Warranty,10384.34,2,4.7,5,5,5,160897.15
+RESP_133,B2C Retail,Consumer Electronics,51297.06,Yes,Standard Extended Warranty,5114.46,1,2.8,4,3,4,76899.85
+RESP_134,B2C Retail,Computing & IT,56408.55,Yes,Standard Extended Warranty,5281.88,2,3.6,3,4,3,66613.33
+RESP_135,Enterprise,Computing & IT,375200.39,Yes,AMC Platinum,70452.65,6,0.5,5,1,5,774158.53
+RESP_136,B2C Retail,Consumer Electronics,65612.07,No,None (Transactional Only),0.0,1,6.8,4,5,4,78734.48
+RESP_137,SME Commercial,Computing & IT,62917.21,Yes,AMC Silver,8735.96,4,1.6,5,5,4,101708.53
+RESP_138,SME Commercial,Consumer Electronics,116259.63,Yes,AMC Silver,13417.13,3,1.8,5,3,5,214640.84
+RESP_139,B2C Retail,Office Automation,67723.36,No,None (Transactional Only),0.0,0,5.1,2,4,1,20317.01
+RESP_140,Enterprise,Consumer Electronics,231647.26,Yes,AMC Platinum,29778.29,4,0.8,5,1,5,436805.76
+RESP_141,Enterprise,Computing & IT,517086.89,Yes,AMC Platinum,66696.12,7,1.4,5,1,5,975718.69
+RESP_142,B2C Retail,Consumer Electronics,39843.14,No,None (Transactional Only),0.0,0,7.2,4,2,4,47811.77
+RESP_143,B2C Retail,Consumer Electronics,79636.79,Yes,AMC Silver,8395.65,2,4.3,5,3,4,120751.1
+RESP_144,B2C Retail,Consumer Electronics,35708.87,Yes,AMC Silver,3869.9,1,1.8,3,4,3,43747.68
+RESP_145,B2C Retail,Office Automation,63268.82,Yes,Standard Extended Warranty,7318.21,2,2.0,4,4,4,97877.21
+RESP_146,B2C Retail,Computing & IT,55990.19,No,None (Transactional Only),0.0,1,3.1,2,4,3,50391.17
+RESP_147,SME Commercial,Office Automation,113956.34,No,None (Transactional Only),0.0,1,4.3,3,3,3,102560.71
+RESP_148,SME Commercial,Office Automation,118712.97,Yes,AMC Gold,15022.49,3,2.7,3,2,3,151909.14
+RESP_149,B2C Retail,Computing & IT,66496.84,No,None (Transactional Only),0.0,0,5.3,2,3,1,19949.05
+RESP_150,B2C Retail,Computing & IT,50406.1,No,None (Transactional Only),0.0,0,4.7,3,5,2,30243.66
+RESP_151,Enterprise,Computing & IT,435732.02,Yes,AMC Gold,66561.65,3,1.7,4,3,4,722563.37
+RESP_152,B2C Retail,Computing & IT,58242.06,Yes,Standard Extended Warranty,8063.61,2,5.0,5,4,5,111553.92
+RESP_153,B2C Retail,Computing & IT,61467.06,No,None (Transactional Only),0.0,0,6.8,2,4,3,55320.35
+RESP_154,B2C Retail,Consumer Electronics,74612.13,Yes,Standard Extended Warranty,7146.85,2,2.8,4,3,4,110975.11
+RESP_155,Enterprise,Computing & IT,521378.75,Yes,AMC Platinum,98992.58,5,1.7,5,1,5,1079045.86
+RESP_156,B2C Retail,Computing & IT,60080.71,Yes,Standard Extended Warranty,7070.12,2,4.6,5,4,5,111331.43
+RESP_157,SME Commercial,Office Automation,108748.66,Yes,AMC Silver,12007.1,3,1.6,5,5,5,199144.29
+RESP_158,SME Commercial,Computing & IT,152026.14,Yes,AMC Silver,20733.67,2,2.5,5,3,4,244632.38
+RESP_159,B2C Retail,Office Automation,52906.41,Yes,Standard Extended Warranty,4448.92,2,3.3,3,4,2,45090.61
+RESP_160,SME Commercial,Computing & IT,79525.61,Yes,AMC Gold,12132.93,2,1.3,4,4,4,131829.52
+RESP_161,B2C Retail,Computing & IT,70514.08,Yes,Standard Extended Warranty,8944.41,2,2.2,4,4,4,111450.13
+RESP_162,SME Commercial,Consumer Electronics,107576.81,Yes,AMC Silver,11239.39,3,1.7,4,4,4,162810.34
+RESP_163,SME Commercial,Consumer Electronics,161310.34,Yes,AMC Silver,18268.1,2,2.6,4,2,4,248376.71
+RESP_164,SME Commercial,Office Automation,201856.67,Yes,AMC Silver,24639.75,3,3.1,5,1,5,376704.26
+RESP_165,B2C Retail,Consumer Electronics,54130.78,No,None (Transactional Only),0.0,0,4.3,3,3,2,32478.47
+RESP_166,SME Commercial,Office Automation,94432.3,Yes,AMC Silver,14972.47,3,1.2,3,2,3,129906.48
+RESP_167,B2C Retail,Computing & IT,70226.31,No,None (Transactional Only),0.0,0,3.7,2,2,3,63203.68
+RESP_168,B2C Retail,Computing & IT,70619.75,No,None (Transactional Only),0.0,1,7.3,3,2,4,84743.7
+RESP_169,B2C Retail,Office Automation,32150.47,No,None (Transactional Only),0.0,2,7.0,2,5,2,19290.28
+RESP_170,SME Commercial,Office Automation,100489.35,No,None (Transactional Only),0.0,1,5.5,3,2,3,90440.42
+RESP_171,SME Commercial,Office Automation,202302.55,Yes,AMC Gold,21513.18,2,2.1,3,4,2,185921.07
+RESP_172,B2C Retail,Consumer Electronics,71132.49,No,None (Transactional Only),0.0,0,3.2,3,3,3,64019.24
+RESP_173,SME Commercial,Computing & IT,218654.15,No,None (Transactional Only),0.0,2,6.9,3,3,3,196788.73
+RESP_174,B2C Retail,Office Automation,83137.41,Yes,Standard Extended Warranty,7063.11,2,4.9,4,4,4,120954.22
+RESP_175,SME Commercial,Computing & IT,121110.34,Yes,AMC Silver,16580.1,3,1.2,5,5,5,231405.81
+RESP_176,B2C Retail,Office Automation,47555.09,Yes,Standard Extended Warranty,4129.56,1,3.5,4,4,5,83721.32
+RESP_177,SME Commercial,Office Automation,80495.32,Yes,AMC Gold,9134.36,2,1.9,4,2,4,123997.46
+RESP_178,B2C Retail,Consumer Electronics,44165.39,No,None (Transactional Only),0.0,1,5.5,2,4,3,39748.85
+RESP_179,Enterprise,Office Automation,292615.11,No,None (Transactional Only),0.0,0,5.7,3,3,3,263353.6
+RESP_180,B2C Retail,Office Automation,77373.43,No,None (Transactional Only),0.0,0,3.3,2,2,2,46424.06
+RESP_181,B2C Retail,Computing & IT,62768.94,No,None (Transactional Only),0.0,0,6.4,2,3,3,56492.05
+RESP_182,B2C Retail,Office Automation,35547.33,Yes,Standard Extended Warranty,4460.87,1,3.3,4,4,4,56039.41
+RESP_183,Enterprise,Consumer Electronics,542995.31,Yes,AMC Platinum,72112.89,4,1.3,5,3,5,1030831.64
+RESP_184,Enterprise,Office Automation,275055.94,Yes,AMC Platinum,47475.98,3,1.3,5,1,5,555011.85
+RESP_185,B2C Retail,Computing & IT,49876.92,No,None (Transactional Only),0.0,1,3.0,3,4,2,29926.15
+RESP_186,SME Commercial,Office Automation,92396.89,No,None (Transactional Only),0.0,0,4.6,2,5,2,55438.13
+RESP_187,SME Commercial,Computing & IT,219413.49,Yes,AMC Silver,31447.28,3,2.5,4,4,4,357638.03
+RESP_188,SME Commercial,Computing & IT,60514.92,Yes,AMC Silver,8935.14,2,2.5,4,1,4,99423.32
+RESP_189,SME Commercial,Office Automation,152797.41,Yes,AMC Gold,20812.42,3,2.5,4,3,3,199954.93
+RESP_190,B2C Retail,Computing & IT,69554.35,Yes,AMC Silver,8677.29,2,4.0,5,3,5,130363.4
+RESP_191,B2C Retail,Computing & IT,35321.68,Yes,Standard Extended Warranty,3013.51,2,1.7,5,4,5,62023.05
+RESP_192,Enterprise,Office Automation,284749.58,Yes,AMC Platinum,45472.6,5,1.5,5,2,5,563542.17
+RESP_193,Enterprise,Office Automation,577640.74,Yes,AMC Platinum,114587.6,5,0.5,4,1,5,1210223.91
+RESP_194,SME Commercial,Consumer Electronics,142892.6,Yes,AMC Gold,16512.36,3,1.6,4,3,4,221008.2
+RESP_195,B2C Retail,Consumer Electronics,55462.63,No,None (Transactional Only),0.0,1,6.2,2,5,3,49916.37
+RESP_196,B2C Retail,Consumer Electronics,79614.91,Yes,Standard Extended Warranty,7445.06,2,2.0,5,5,5,141757.55
+RESP_197,SME Commercial,Computing & IT,71033.28,Yes,AMC Silver,8218.72,4,1.7,5,3,5,131206.08
+RESP_198,Enterprise,Computing & IT,342999.1,Yes,AMC Gold,45451.0,6,0.6,4,1,5,650851.65
+RESP_199,Enterprise,Consumer Electronics,389589.31,Yes,AMC Gold,74795.95,4,1.6,5,3,4,691895.02
+RESP_200,SME Commercial,Office Automation,122951.66,No,None (Transactional Only),0.0,1,6.1,3,2,4,147541.99
+RESP_201,SME Commercial,Office Automation,176024.92,Yes,AMC Silver,20862.81,2,2.5,4,2,3,221010.86
+RESP_202,B2C Retail,Office Automation,40772.19,Yes,AMC Silver,4634.71,1,4.9,3,3,3,50599.1
+RESP_203,B2C Retail,Computing & IT,80419.0,No,None (Transactional Only),0.0,1,4.1,4,2,4,96502.8
+RESP_204,Enterprise,Consumer Electronics,448884.56,Yes,AMC Gold,84820.76,5,1.5,5,2,4,793123.75
+RESP_205,SME Commercial,Computing & IT,189024.58,Yes,AMC Silver,27820.01,4,3.2,4,4,4,310289.53
+RESP_206,B2C Retail,Consumer Electronics,26256.2,Yes,AMC Silver,2355.11,2,2.3,4,4,5,46449.63
+RESP_207,B2C Retail,Consumer Electronics,26901.72,Yes,Standard Extended Warranty,3619.71,1,2.9,5,3,5,51211.71
+RESP_208,SME Commercial,Office Automation,123581.02,Yes,AMC Silver,13808.52,3,1.2,4,2,4,189722.78
+RESP_209,B2C Retail,Computing & IT,46864.44,No,None (Transactional Only),0.0,0,7.5,3,3,3,42178.0
+RESP_210,B2C Retail,Computing & IT,36622.4,No,None (Transactional Only),0.0,0,7.5,2,3,2,21973.44
+RESP_211,SME Commercial,Computing & IT,65341.38,Yes,AMC Gold,9750.41,2,2.1,4,5,3,88058.47
+RESP_212,SME Commercial,Office Automation,188576.57,Yes,AMC Gold,23584.45,4,1.3,5,5,5,353618.2
+RESP_213,SME Commercial,Consumer Electronics,216765.19,No,None (Transactional Only),0.0,0,6.4,2,4,1,65029.56
+RESP_214,B2C Retail,Computing & IT,39682.71,Yes,AMC Silver,3976.62,1,4.4,4,3,4,59549.11
+RESP_215,SME Commercial,Computing & IT,135386.86,No,None (Transactional Only),0.0,0,4.8,3,3,4,162464.23
+RESP_216,B2C Retail,Consumer Electronics,37163.31,No,None (Transactional Only),0.0,1,3.5,2,3,1,11148.99
+RESP_217,B2C Retail,Computing & IT,56524.57,No,None (Transactional Only),0.0,1,6.1,3,3,4,67829.48
+RESP_218,SME Commercial,Office Automation,216656.79,Yes,AMC Silver,30455.59,3,1.8,3,2,3,286357.88
+RESP_219,SME Commercial,Consumer Electronics,164845.19,No,None (Transactional Only),0.0,0,3.4,2,2,3,148360.67
+RESP_220,SME Commercial,Computing & IT,117660.45,Yes,AMC Gold,14648.54,3,3.3,4,1,5,220436.29
